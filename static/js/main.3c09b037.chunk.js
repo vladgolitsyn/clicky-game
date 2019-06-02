@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(e,n,a){e.exports=a(9)},9:function(e,n,a){"use strict";a.r(n);var r=a(0),t=a.n(r),c=a(2);var o=function(){return t.a.createElement("nav",{className:"navbar navbar-expand-lg bg-primary"},"Image Clicky Game")};var l=function(){return t.a.createElement(o,null)};a.n(c).a.render(t.a.createElement(l,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.3c09b037.chunk.js.map
