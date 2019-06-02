@@ -1,8 +1,18 @@
 import React from "react";
-import Nav from "./components/Nav";
+import Header from "./components/Header";
+import Scoreboard from "./components/Scoreboard";
 
-function App() {
-  return <Nav />;
+export class App extends React.Component {
+  state = {};
+
+  render() {
+    return (
+      <div>
+        <Header />;
+        <Scoreboard />;
+      </div>
+    );
+  }
 }
 
 export default App;

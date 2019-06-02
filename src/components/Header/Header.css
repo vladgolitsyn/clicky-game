@@ -1,0 +1,13 @@
+.header {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    position: fixed;
+    width: 100%;
+    min-height: 50px;
+}
+
+.bodytext {
+    color: white;
+    font-size: 14px;
+}
